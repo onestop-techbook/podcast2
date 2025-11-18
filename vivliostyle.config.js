@@ -26,7 +26,10 @@ const def = {
 
     // 第一部 とにかく楽をする
     "part-easy.md",
-	"chap-introduction.md",
+	"chap1-listen-to-podcasts.md",
+	"chap3-tips.md",
+	"chap-6-conclude.md",
+
 
 
     // 第二部 Vivliostyleについて
