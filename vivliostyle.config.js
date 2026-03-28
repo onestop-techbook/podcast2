@@ -24,17 +24,37 @@ const def = {
     // 目次
     { rel: "contents" },
 
-    // 第一部 とにかく楽をする
+    // 第一部 Podcastとは
     "part-easy.md",
-	"chap1-listen-to-podcasts.md",
-	"chap3-tips.md",
-	"chap-6-conclude.md",
-
-
-
-    // 第二部 Vivliostyleについて
+    "chap1_1.md",
+    "chap1_2.md",
+    "chap1_3.md",
+    // 始める
+    "part-start.md",
+    "chap2_1.md",
+    "chap2_2.md",
+    "chap2_3.md",
+    "chap2_4.md",
+    "chap2_5.md",
+    "chap2_6.md",
+    "chap2_7.md",
+    // 続ける
+    "part-continue.md",
+    "chap3_1.md",
+    "chap3_2.md",
+    // より良いPodcastのために
     "part-tips.md",
-	"chap-placeholder.md",
+    "chap4_1.md",
+    "chap4_2.md",
+    "chap4_3.md",
+    "chap4_4.md",
+    // 広がる世界へ
+    "part-world.md",
+    "questionnaire-listener.md",
+    "questionnaire-podcaster.md",
+    "event.md",
+    "special.md",
+    "chap-6-conclude.md",
 
     // 後書き
     "90-postscript.md",
