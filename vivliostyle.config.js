@@ -48,6 +48,7 @@ const def = {
     "chap4_2.md",
     "chap4_3.md",
     "chap4_4.md",
+    "chap4_YUSUKE.md",
     // 広がる世界へ
     "part-world.md",
     "questionnaire-listener.md",

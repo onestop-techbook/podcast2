@@ -2,7 +2,7 @@
 class: chapter
 ---
 
-![ ](./images/listen-to-podcasts/manga_podcast_002.png)
+![ ](./images/starting-to-podcasts/manga_podcast_002.png)
 
 # Podcastを始めよう!
 この章ではPodcastの始め方を紹介していきます。便利なアプリやツールがたくさんあるのでPodcastを始めるのはそれほど大変なことではありません。ぜひ、Podcast配信を始めてこの楽しさを味わいましょう!

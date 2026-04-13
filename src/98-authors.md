@@ -238,6 +238,20 @@ podcastはたのしいです。
 本書では、コラムを一部書かせていただきました。
 </p>
 
+<div class="author-profile">
+    <img src="images/contributors/YUSUKE.jpg">
+    <div>
+        <div>
+            <b>YUSUKE(ユウスケ)</b>
+            <a href="https://twitter.com/G_OVER_N_GAME">X@YUSUKE</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+北海道在住の二児の父。幼い頃からビデオゲームに囲まれながら過ごす。
+Ｘ、Podcast配信などでゲームの楽しさを発信中。
+</p>
+
 ## 表紙イラスト担当
 <div class="author-profile">
     <img src="images/contributors/RkmwJH1I_400x400.jpg">
