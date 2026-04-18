@@ -44,6 +44,7 @@ const def = {
     "part-continue.md",
     "chap3_1.md",
     "chap3_2.md",
+    "chap3_3.md",
     // より良いPodcastのために
     "part-tips.md",
     "chap4_1.md",
