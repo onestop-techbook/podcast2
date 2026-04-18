@@ -17,7 +17,7 @@ class: preface
 これから聴く人も、今聴いている人も、Podcastって初めて聞いた/知ったという人も。
 
 <div class="flush-right">
-202⑥年5月
+2026年5月
 
 編集長　親方＠親方Project　拝
 

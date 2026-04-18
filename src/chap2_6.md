@@ -2,7 +2,7 @@
 class: chapter
 ---
 
-# 編集
+# TODO 編集 最新に書き直す
 筆者がいつも行なっているAudacityでのお勧めの編集方法を記載します。これだけでかなり良い感じになるので、ぜひ一度お試しください。
 
 ## 音量を大きくする
@@ -84,7 +84,7 @@ class: chapter
 次にノイズの削除を行います。こちらも事前の編集で削除していますが、異なる種類のノイズはそれごとに対応が必要となります。例えば扉を開けた音、外の車の音、航空機の音、キーボードのタイプ音などノイズはいくつか考えられます。それごとにノイズが目立たないようにしていきましょう。会話とかぶっていないノイズはそのまま削除すれば大丈夫です。会話とかぶっている場合はそのノイズが単独で出現している部分を選択してノイズの低減機能で目立たなくしていきましょう。編集で行えるノイズの対応には限界があります。なるべく収録時にノイズが乗らないようにしたいですね。
 
 <div class="column">
-<div class="column-title">コラムの書き方</div>
+<div class="column-title">プラグイン</div>
 Audacityには、インストール時に同梱されている標準のエフェクト以外にも、後から導入できるフィルター（プラグイン）が多く存在します。次のようなプラグインが便利です。
 
  * 「Chris’s Dynamic Compressor plugin for Audacity<span class="footnote">https://theaudacitytopodcast.com/chriss-dynamic-compressor-plugin-for-audacity/</span>」

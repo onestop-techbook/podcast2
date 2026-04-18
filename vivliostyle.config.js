@@ -35,7 +35,9 @@ const def = {
     "chap2_2.md",
     "chap2_3.md",
     "chap2_4.md",
-    "chap2_5.md",
+    "chap2_5_1.md",
+    "chap2_5_2.md",
+    "chap2_5_3.md",
     "chap2_6.md",
     "chap2_7.md",
     // 続ける
