@@ -10,7 +10,7 @@ class: colophon
     <div class="colophon-title">ワンストップPodcast2</div>
     <table>
         <tr>
-            <td colspan="3">2026年5月11日 初版発行 第13回 技術書同人誌博覧会</td>
+            <td colspan="3">2026年5月10日 初版発行 第13回 技術書同人誌博覧会</td>
         </tr>
         <tr>
             <td>　</td>
@@ -33,5 +33,5 @@ class: colophon
             <td>K-9</td>
         </tr>
     </table>
-    <div>&copy; 2025 親方Project</div>
+    <div>&copy; 2026 親方Project</div>
 </div>
