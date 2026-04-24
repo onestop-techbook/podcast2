@@ -15,7 +15,7 @@ class: chapter
  * ニー幅：26.0
  * 比率：5.0
 
-![Audacityのコンプレッサーで音を大きく調整する](./images/starting-to-podcasts/audacity_compressor_01.png)
+![Audacityのコンプレッサーで音を大きく調整する](./images/starting-to-podcasts/audacity_compressor_01.png){width=40%}
 
 ## ノイズの削除
 
@@ -23,13 +23,13 @@ class: chapter
 
 筆者はノイズ低減を12dB、感度は12.00、周波数平滑化を6にしています。この内容は筆者がいろいろ試した見た結果で、単純に私がもっとも好みな設定だというだけです。ちなみにノイズ低減を強くするとより強くノイズを低減できますが、ノイズ以外の音声も聞こえづらくなってしまいます。なおノイズの低減は全選択すると処理に時間がかかるので、特にノイズがひどい部分のみ選択していろいろ試して見ることをオススメします。
 
-![Audacityでノイズを低減する](./images/starting-to-podcasts/audacity_noise_01.png)
+![Audacityでノイズを低減する](./images/starting-to-podcasts/audacity_noise_01.png){width=40%}
 
 ## 無音の切り詰め
 次に無音部分の切り詰めをします。会話部分で長い間ができてしまったり、調べ物をしたりするあいだの間を短くすることでテンポをよくします。
 全選択（複数トラックあるときは対象のトラックを全て選択）してからメニューのエフェクト → 特殊 → 無音の切り詰めを選択します。私は0.5秒が好みですが、お好みで設定を変えてください。
 
-![Audacityで無音を切り詰める](./images/starting-to-podcasts/audacity_no_voice_01.png)
+![Audacityで無音を切り詰める](./images/starting-to-podcasts/audacity_no_voice_01.png){width=40%}
 
 <div class="column">
 <div class="column-title">Audacityにキーボードショートカット追加</div>
@@ -48,7 +48,7 @@ class: chapter
 
 音声ファイルを最初から聞いて細かい編集を行います。筆者は1.5倍速で聞き直して確認しています。再生速度はAudacity上の再生ボタンとバーで調整できます。
 
-![Audacityで再生速度を変える再生パネル](./images/starting-to-podcasts/audacity_play_speed_01.png)
+![Audacityで再生速度を変える再生パネル](./images/starting-to-podcasts/audacity_play_speed_01.png){width=40%}
 
 編集する観点としては次の点を確認します。
 
@@ -70,7 +70,7 @@ class: chapter
 
 編集中にキーンと響くような音があったら、その部分を選択してメニューからエフェクト → Dominic Mazzoni → ローパスフィルターを選択します。私はデフォルト設定のままにしていますが、好みでいろいろ変えてみてください。
 
-![Audacityで歯擦音を低減する](./images/starting-to-podcasts/audacity_lpf_01.png)
+![Audacityで歯擦音を低減する](./images/starting-to-podcasts/audacity_lpf_01.png){width=40%}
 
 <div class="column">
 <div class="column-title">プラグイン</div>
