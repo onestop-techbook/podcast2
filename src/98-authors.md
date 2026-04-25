@@ -252,6 +252,19 @@ podcastはたのしいです。
 Ｘ、Podcast配信などでゲームの楽しさを発信中。
 </p>
 
+<div class="author-profile">
+    <img src="images/contributors/ditflame_400x400.jpg">
+    <div>
+        <div>
+            <b>ふーれむ</b>
+            <a href="https://twitter.com/ditflame">X@ditflame</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+最近息子が産まれたのでアウトプット力が激減中です(当社比)。アウトプットしていきたい～。
+</p>
+
 ## 表紙イラスト担当
 <div class="author-profile">
     <img src="images/contributors/RkmwJH1I_400x400.jpg">
