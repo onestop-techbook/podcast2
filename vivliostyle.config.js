@@ -40,6 +40,7 @@ const def = {
     "chap2_5_3.md",
     "chap2_6.md",
     "chap2_7.md",
+    "chap2_guest_ditflame.md",
     // 続ける
     "part-continue.md",
     "chap3_1.md",
