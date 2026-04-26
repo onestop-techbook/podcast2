@@ -66,5 +66,6 @@ https://fortegp05.github.io/aozorafm/episode/209
 
 ## 録音ソフト
 
-PCで録音するにはマイクの他に録音ソフトが必要です。筆者は録音、編集ソフトとしてAudacityを使用しています。Audacityはフリーで録音、編集ができるソフトです。録音時は録音レベルを調整することができ、マイク側で調整ができなくてもある程度ならソフト側で調整できます。
+PCで録音するにはマイクの他に録音ソフトが必要です。筆者は録音、編集ソフトとしてAudacity<span class="footnote">窓の杜  https://forest.watch.impress.co.jp/library/software/audacity/ などからダウンロードできます。</span>を使用しています。Audacityはフリーで録音、編集ができるソフトです。録音時は録音レベルを調整することができ、マイク側で調整ができなくてもある程度ならソフト側で調整できます。
+
 
