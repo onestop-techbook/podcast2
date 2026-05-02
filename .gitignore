@@ -134,3 +134,5 @@ dist
 .vivliostyle
 /*.pdf
 node_modules
+*.zip
+*.psd
